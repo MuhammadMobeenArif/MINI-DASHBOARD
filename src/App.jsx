@@ -2,7 +2,7 @@
 import { useState } from "react";
 import ProfileCard from "./components/FullDashboard";
 import HobbyList from "./components/About";
-import HobbyList from "./components/componenttsPagge";
+import HobbyList from "./components/ComponenttsPages";
 function App() {
   const [darkMode, setDarkMode] = useState(false);
 
