@@ -1,8 +1,8 @@
 // App.jsx
 import { useState } from "react";
-import ProfileCard from "./components/ProfileCard";
-import HobbyList from "./components/HobbyList";
-
+import ProfileCard from "./components/FullDashboard";
+import HobbyList from "./components/About";
+import HobbyList from "./components/componenttsPagge";
 function App() {
   const [darkMode, setDarkMode] = useState(false);
 
